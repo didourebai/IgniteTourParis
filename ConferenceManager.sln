@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceManager", "ConferenceManager\ConferenceManager.csproj", "{D853465D-5E4C-4B48-B016-7BCC761B51C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceManager.Entities", "ConferenceManager.Entities\ConferenceManager.Entities.csproj", "{C4A40E21-52DB-4F93-8B40-7D714139239C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D853465D-5E4C-4B48-B016-7BCC761B51C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D853465D-5E4C-4B48-B016-7BCC761B51C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D853465D-5E4C-4B48-B016-7BCC761B51C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D853465D-5E4C-4B48-B016-7BCC761B51C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A40E21-52DB-4F93-8B40-7D714139239C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A40E21-52DB-4F93-8B40-7D714139239C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A40E21-52DB-4F93-8B40-7D714139239C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A40E21-52DB-4F93-8B40-7D714139239C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD39F2B6-0B0F-422C-8047-8CFF57E80A9D}
+	EndGlobalSection
+EndGlobal

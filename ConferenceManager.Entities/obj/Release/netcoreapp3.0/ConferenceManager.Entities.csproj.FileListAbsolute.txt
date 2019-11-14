@@ -1,0 +1,7 @@
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\bin\Release\netcoreapp3.0\ConferenceManager.Entities.deps.json
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\bin\Release\netcoreapp3.0\ConferenceManager.Entities.dll
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\bin\Release\netcoreapp3.0\ConferenceManager.Entities.pdb
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\obj\Release\netcoreapp3.0\ConferenceManager.Entities.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\obj\Release\netcoreapp3.0\ConferenceManager.Entities.AssemblyInfo.cs
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\obj\Release\netcoreapp3.0\ConferenceManager.Entities.dll
+C:\Users\didou\Documents\Microsoft Ignite The Tour\ConferenceManager\ConferenceManager.Entities\obj\Release\netcoreapp3.0\ConferenceManager.Entities.pdb
